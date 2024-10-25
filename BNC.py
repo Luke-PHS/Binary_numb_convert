@@ -9,11 +9,11 @@
 
 num = input("give a number from 0-15 ")
 if num == "1":
-    num1 = 1
-binary_converter = bin(num1)
+    num == 1
+binary_converter = bin(num)
 if num == "2":
-    num2 = 2
-binary_converter = bin(num2)
+    num = 2
+binary_converter = bin(num)
 print(binary_converter)
 
 
